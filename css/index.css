@@ -1,0 +1,69 @@
+body
+{
+	/*background-image: url("../img/index-background.gif");*/
+	background-image: url("../images/escheresque.png");
+	/*background-image: url("../img/always_grey.png");*/
+	background-repeat: repeat;
+}
+#loginInputs,.form-sigin
+{
+	max-width:330px;
+}
+.smallHeadshot
+{
+	height:50px;
+	width:50px;
+}
+.mediumHeadshot
+{
+	height:150px;
+	width:150px;
+}
+.table-condensed > tbody > tr > td,
+.table-striped > tbody > tr > td,
+.table-striped > thead> tr > th
+{
+	vertical-align:middle;
+	text-align:center;
+}
+.thinTable > thead > tr > th,
+.thinTable > tbody > tr > td
+{
+	line-height:1;
+	padding:1px;
+
+}
+#schedule > thead > tr > th,
+#schedule > tbody > tr > td,
+{
+	border: 1px solid #aaa;
+	line-height:1;
+	padding:1px;
+}
+#studentQuickLookup > tbody > tr > td,
+#studentQuickLookup > thead > tr > th
+{
+	padding: 1px;
+}
+.inlineBlockMe
+{
+	display:inline-block;
+}
+.topMargin
+{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.separatorBorder
+{
+	border:1px solid;
+	border-radius:10px;
+}
+.insidePadding
+{
+	padding: 10px;
+}
+.mediumText
+{
+	font-size:16pt;
+}
